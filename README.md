@@ -1,4 +1,4 @@
-# Hotspot Analysis of NYC Arrests
+# Hotspot Analysis of NYC Arrest Data
 
 ## Introduction
 

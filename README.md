@@ -4,7 +4,7 @@
 
 In this project, we will perform a hotspot analysis of NYC arrests using machine learning. Hotspot analysis is a spatial statistics technique that identifies areas of high and low values (in this case, crime rates) within a defined study area. By using machine learning, we can perform a more precise analysis and identify patterns and relationships in the data that might not be apparent otherwise.
 
-## Motivation
+## Motivations
 
 The reason for selecting this topic is to gain insights into the spatial distribution of crime in NYC and identify areas that may require more attention and resources from law enforcement agencies. Hotspot analysis is a powerful tool for identifying crime hotspots and developing evidence-based strategies for crime prevention and reduction.
 

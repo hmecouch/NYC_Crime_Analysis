@@ -1,0 +1,4 @@
+# ignore big files
+NYPD_Arrests_Data__Historic_.csv
+NYPD_Arrests_Data_cleaned.csv
+Reference_Data.csv

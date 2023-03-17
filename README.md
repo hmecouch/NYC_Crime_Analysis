@@ -15,3 +15,4 @@ The data for this project consists of a dataset of NYC arrests from the past fiv
 ## Research Questions
 
 The primary question that we plan to answer with this project is: where are the hotspots of crime in NYC, and what factors may be contributing to the spatial patterns of crime? By performing a hotspot analysis and identifying areas of high and low crime rates, we can develop a more nuanced understanding of the spatial distribution of crime and identify potential causes and solutions.
+

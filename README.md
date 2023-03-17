@@ -18,7 +18,7 @@ The first step in this project was to clean and preprocess the dataset. This inv
 
 After cleaning the data, exploratory data analysis was performed to gain insights into the dataset and visualize the distribution of the target variable. The following analyses were performed:
 
-- Checked the distribution of the target variable (level of offense) and found that it was imbalanced, with a majority of the arrests being for violations or infractions.
+- Checked the distribution of the target variable (level of offense) and found that it was imbalanced, with a majority of the arrests being for midemeanors and felonies.
 - Visualized the distribution of the target variable using a countplot from the seaborn library.
 
 ## Machine Learning

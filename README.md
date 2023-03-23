@@ -31,6 +31,10 @@ While there may not be a direct correlation between the decline in misdemeanors 
 
 COVID-19 is likely to have played a significant role in the decline of misdemeanors over time. The pandemic led to a number of changes in daily life, including the implementation of lockdowns and social distancing measures, which likely resulted in a decrease in public gatherings and activities. This may have resulted in a decrease in the likelihood of committing misdemeanors, such as disorderly conduct, loitering, or minor drug offenses, which often occur in public spaces. Additionally, law enforcement agencies may have shifted their focus towards enforcing COVID-19 related restrictions, resulting in less time and resources being devoted to minor offenses. Finally, the pandemic also resulted in a significant decrease in foot traffic in many urban areas, leading to less opportunities for misdemeanor crimes to occur. Therefore, it is likely that COVID-19 and the resulting changes in daily life contributed to the decline in misdemeanors seen over time.
 
+## Database 
+
+A PostgreSQL relational database was utilized for data storage due to its ability to easily establish connections between various tables and generate results that can answer questions. Additionally, the unchanging nature of the database enables it to be seamlessly integrated with Pandas for executing ETL processes.
+
 ## Machine Learning
 
 After cleaning and exploring the data, a Random Forest Classifier algorithm was used to build the model. The following steps were taken for machine learning:
@@ -47,9 +51,7 @@ The results of the analysis show that the RFC model achieved an accuracy score o
 ### Conclusion:
 In conclusion, the analysis showed that an RFC model trained on demographic features of NYC arrestees from 2017-2021 was able to predict whether an arrest resulted in a misdemeanor or a felony with an accuracy score of 0.62. However, the model had difficulty distinguishing between these two classes, indicating that further analysis and experimentation may be necessary to improve its performance and gain a more nuanced understanding of the factors that contribute to arrest outcomes in NYC.
 
-## Database 
 
-A PostgreSQL relational database was utilized for data storage due to its ability to easily establish connections between various tables and generate results that can answer questions. Additionally, the unchanging nature of the database enables it to be seamlessly integrated with Pandas for executing ETL processes.
 
 
 

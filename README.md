@@ -30,3 +30,11 @@ After cleaning and exploring the data, a Random Forest Classifier algorithm was 
 - Made predictions on the testing set using the predict function.
 - Calculated the accuracy of the model using the accuracy_score function from the sklearn library.
 - Created a confusion matrix to visualize the performance of the model using the confusion_matrix function and a heatmap from the seaborn library.
+
+## Database 
+
+A PostgreSQL relational database was utilized for data storage due to its ability to easily establish connections between various tables and generate results that can answer questions. Additionally, the unchanging nature of the database enables it to be seamlessly integrated with Pandas for executing ETL processes.
+
+
+
+

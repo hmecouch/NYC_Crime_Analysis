@@ -41,6 +41,12 @@ After cleaning and exploring the data, a Random Forest Classifier algorithm was 
 - Calculated the accuracy of the model using the accuracy_score function from the sklearn library.
 - Created a confusion matrix to visualize the performance of the model using the confusion_matrix function and a heatmap from the seaborn library.
 
+### Results:
+The results of the analysis show that the RFC model achieved an accuracy score of 0.62, meaning that the model correctly predicted the class for approximately 62% of the observations. However, the confusion matrix revealed that the model had difficulty distinguishing between misdemeanors and felonies, as it misclassified a significant number of observations as either False Positives or False Negatives.
+
+### Conclusion:
+In conclusion, the analysis showed that an RFC model trained on demographic features of NYC arrestees from 2017-2021 was able to predict whether an arrest resulted in a misdemeanor or a felony with an accuracy score of 0.62. However, the model had difficulty distinguishing between these two classes, indicating that further analysis and experimentation may be necessary to improve its performance and gain a more nuanced understanding of the factors that contribute to arrest outcomes in NYC. Thank you for your attention.
+
 ## Database 
 
 A PostgreSQL relational database was utilized for data storage due to its ability to easily establish connections between various tables and generate results that can answer questions. Additionally, the unchanging nature of the database enables it to be seamlessly integrated with Pandas for executing ETL processes.

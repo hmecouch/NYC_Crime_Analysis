@@ -31,6 +31,11 @@ While there may not be a direct correlation between the decline in misdemeanors 
 
 COVID-19 is likely to have played a significant role in the decline of misdemeanors over time. The pandemic led to a number of changes in daily life, including the implementation of lockdowns and social distancing measures, which likely resulted in a decrease in public gatherings and activities. This may have resulted in a decrease in the likelihood of committing misdemeanors, such as disorderly conduct, loitering, or minor drug offenses, which often occur in public spaces. Additionally, law enforcement agencies may have shifted their focus towards enforcing COVID-19 related restrictions, resulting in less time and resources being devoted to minor offenses. Finally, the pandemic also resulted in a significant decrease in foot traffic in many urban areas, leading to less opportunities for misdemeanor crimes to occur. Therefore, it is likely that COVID-19 and the resulting changes in daily life contributed to the decline in misdemeanors seen over time.
 
+![Monthly_Counts_Line_Chart](https://user-images.githubusercontent.com/114521887/227396103-25fd597f-c7b8-4a2b-8a1d-2e0d5878a26c.png)
+
+![Monthly_Counts_Bar_Chart](https://user-images.githubusercontent.com/114521887/227396125-e41fbb1d-c816-4bc3-a9ce-409ea0622de3.png)
+
+
 ## Database 
 
 A PostgreSQL relational database was utilized for data storage due to its ability to easily establish connections between various tables and generate results that can answer questions. Additionally, the unchanging nature of the database enables it to be seamlessly integrated with Pandas for executing ETL processes.

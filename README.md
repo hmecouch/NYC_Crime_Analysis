@@ -35,6 +35,14 @@ COVID-19 is likely to have played a significant role in the decline of misdemean
 
 A PostgreSQL relational database was utilized for data storage due to its ability to easily establish connections between various tables and generate results that can answer questions. Additionally, the unchanging nature of the database enables it to be seamlessly integrated with Pandas for executing ETL processes.
 
+### Tables:
+* Felony
+* Violation
+* Misdemeanor
+* Monthly Crimes
+* Yearly Crimes
+* NYC Historic Crime
+
 <img width="837" alt="Screen Shot 2023-03-23 at 6 16 31 PM" src="https://user-images.githubusercontent.com/107570913/227393178-2ff6fce0-e1d9-49d9-992d-8c36deb5c2b4.png">
 
 

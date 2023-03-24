@@ -31,6 +31,11 @@ While there may not be a direct correlation between the decline in misdemeanors 
 
 COVID-19 is likely to have played a significant role in the decline of misdemeanors over time. The pandemic led to a number of changes in daily life, including the implementation of lockdowns and social distancing measures, which likely resulted in a decrease in public gatherings and activities. This may have resulted in a decrease in the likelihood of committing misdemeanors, such as disorderly conduct, loitering, or minor drug offenses, which often occur in public spaces. Additionally, law enforcement agencies may have shifted their focus towards enforcing COVID-19 related restrictions, resulting in less time and resources being devoted to minor offenses. Finally, the pandemic also resulted in a significant decrease in foot traffic in many urban areas, leading to less opportunities for misdemeanor crimes to occur. Therefore, it is likely that COVID-19 and the resulting changes in daily life contributed to the decline in misdemeanors seen over time.
 
+![Monthly_Counts_Line_Chart](https://user-images.githubusercontent.com/114521887/227395662-6a0bf6b2-3e12-46c2-957d-39f92a92bf7a.png)
+
+![Monthly_Counts_Bar_Chart](https://user-images.githubusercontent.com/114521887/227395669-dc7ac470-b897-47f6-b21e-0f50a75e56d0.png)
+
+
 ## Machine Learning
 
 After cleaning and exploring the data, a Random Forest Classifier algorithm was used to build the model. The following steps were taken for machine learning:

@@ -47,6 +47,7 @@ After cleaning and exploring the data, a Random Forest Classifier algorithm was 
 
 ### Results:
 The results of the analysis show that the RFC model achieved an accuracy score of 0.62, meaning that the model correctly predicted the class for approximately 62% of the observations. However, the confusion matrix revealed that the model had difficulty distinguishing between misdemeanors and felonies, as it misclassified a significant number of observations as either False Positives or False Negatives. From the confusion matrix, we can see that the model correctly predicted 7092 misdemeanors as misdemeanors (True Negatives) and 118902 felonies as felonies (True Positives). However, the model also made some incorrect predictions. Specifically, it classified 71608 misdemeanors as felonies (False Positives) and 5690 felonies as misdemeanors (False Negatives).
+![confusion_matrix](https://user-images.githubusercontent.com/114922260/227391327-83dee126-01bc-4627-901e-723fe5d9f49a.png)
 
 ### Conclusion:
 In conclusion, the analysis showed that an RFC model trained on demographic features of NYC arrestees from 2017-2021 was able to predict whether an arrest resulted in a misdemeanor or a felony with an accuracy score of 0.62. However, the model had difficulty distinguishing between these two classes, indicating that further analysis and experimentation may be necessary to improve its performance and gain a more nuanced understanding of the factors that contribute to arrest outcomes in NYC.
